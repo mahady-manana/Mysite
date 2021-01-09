@@ -1,0 +1,41 @@
+.homepage .top-section .container {
+    height: 100%;
+    padding-top: 116px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 120px;
+}
+.homepage .top-section {
+    background: linear-gradient(0deg, #00f7f7, #0000a6);
+    height: 90vh;
+}
+.myskills-container .item-container .item {
+    display: inline-block;
+    width: 25%;
+    padding-right: 20px;
+    vertical-align: top;
+}
+.myskills-container .item-container .text h2 {
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+}
+.myskills-container .item-container .image {
+    margin-bottom: 15px;
+}
+.myskills-container .item-container .text .wordpress {
+    background: #0054ff;
+    color: #fff;
+}
+.myskills-container .item-container .text .javascript {
+    background: #f7df1e;
+    color: #000;
+}
+.myskills-container .item-container .text .nodejs {
+    background: #3e883c;
+    color: #fff;
+}
+.myskills-container .item-container .text .reactjs {
+    background: #61d9fb;
+    color: #fff;
+}

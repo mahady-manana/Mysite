@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    z-index: 0;
+    word-break: break-word;
+}
+
+a {
+    color: #0000a6;
+}
+div {
+    display: block
+}
+.header {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    top: 0;
+}
+.header .main-menu.menu-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.clr-1 {
+    color: #0000a6;
+}
+.clr-1 {
+    color: #0ff;
+}
+.bg-1 {
+    background-color: #0000a6;
+}
+.bg-2 {
+    background-color: #0ff;
+}
